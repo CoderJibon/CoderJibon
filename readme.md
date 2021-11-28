@@ -12,7 +12,7 @@
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
-<a href="https://www.google.com/search?q=coderjibon">Google Me</a>
+<a target="_blank" href="https://www.google.com/search?q=coderjibon">Google Me</a>
 <a href="https://github.com/CoderJibon/resume"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=CoderJibon.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=CoderJibon.visitor-badge&title=Visits" align="right" alt="Visits"></a>
@@ -21,20 +21,27 @@
 <p align="center">
   <a href="https://coderjibon.com/" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="coderjibon" /></a> 
   <a href="https://www.linkedin.com/in/jibon-roy-a3948219a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="coderjibon"/></a>
-  <!-- <a href="https://instagram.com/" target="blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiamworld" /></a>  -->
-    <a href="" target="blank"><img src="https://img.shields.io/badge/skype-20BEFF?&style=for-the-badge&logo=skype&logoColor=white" alt="coderjibon"  /></a> 
+    <a href="https://join.skype.com/invite/BLnlj2fzcVMv" target="blank"><img src="https://img.shields.io/badge/skype-20BEFF?&style=for-the-badge&logo=skype&logoColor=white" alt="coderjibon" /></a> 
+    <a href="https://wa.me/qr/CI7OHSI4Q6O3F1" target="blank"><img src="https://img.shields.io/badge/whatsapp-20BEFF?&style=for-the-badge&logo=skype&logoColor=white" alt="coderjibon" /></a> 
+    
 </p>
 
 ## 📘 My top open source projects
 
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/alsiamworld/alsiamworld" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiamworld&repo=alsiamworld&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
-  <a href="https://github.com/alsiamworld/cuda-portfolio" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiamworld&repo=cuda-portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
-  <a href="https://github.com/alsiamworld/altube" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiamworld&repo=altube&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
- <a href="https://github.com/alsiamworld/fashion-ecommerce" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiamworld&repo=fashion-ecommerce&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="fashion-ecommerce"></a>
-  <a href="https://github.com/alsiamworld/jamuna-news" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiamworld&repo=jamuna-news&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
-  <a href="https://github.com/alsiamworld/spourmo" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiamworld&repo=spourmo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+<a href="https://github.com/CoderJibon/education-website" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CoderJibon&repo=education-website&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+<a href="https://github.com/CoderJibon/timekeeper-project" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CoderJibon&repo=timekeeper-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+<a href="https://github.com/CoderJibon/timekeeper-project" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CoderJibon&repo=timekeeper-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+<a href="https://github.com/CoderJibon/TravelAgency-project" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CoderJibon&repo=TravelAgency-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+<a href="https://github.com/CoderJibon/jintin" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CoderJibon&repo=jintin&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+<a href="https://github.com/CoderJibon/social" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CoderJibon&repo=social&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+<a href="https://github.com/CoderJibon/chawla-Project" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CoderJibon&repo=chawla-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+<a href="https://github.com/CoderJibon/guljag-project" target="blank">
+<img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CoderJibon&repo=guljag-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+<a href="https://github.com/CoderJibon/healthcare-related-website" target="blank">
+<img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CoderJibon&repo=healthcare-related-website&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coderjibon"></a>
+
 </p>
 
 <p align="left">
@@ -81,5 +88,3 @@
 <p></p>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/CoderJibon"><img alt="coderjibon" src="https://activity-graph.herokuapp.com/graph?username=CoderJibon&bg_color=000000&color=ffffff&line=00ff6e&point=ff0000&area=true&hide_border=true" /></a>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CoderJibon&bg_color=000000&color=ffffff&line=00ff6e&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
